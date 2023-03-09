@@ -1,16 +1,11 @@
-# daily_list
+# APP TO DO LIST 
+## Aplicación de lista de tareas con Flutter
 
-A new Flutter project.
 
-## Getting Started
+[![Flutter](https://img.shields.io/badge/Flutter-3.3.10-blue)](https://flutter.dev/)
 
-This project is a starting point for a Flutter application.
+App destianada a la realización de tareas diarias por prioridad
 
-A few resources to get you started if this is your first Flutter project:
+<a href="./preview.png"><img src="./preview/homepreview.png" style="width:50%;"/></a>
+<a href="./preview.png"><img src="./preview/listpagepreview.png" style="width:50%;"/></a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
