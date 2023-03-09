@@ -6,7 +6,9 @@
 
 App destianada a la realización de tareas diarias por prioridad
 
-<div style="display:flex;">
-    <a href="./preview/homepreview.png"><img src="./preview/homepreview.png" style="width:70%;"/></a>
-    <a href="./preview/listpagepreview.png"><img src="./preview/listpagepreview.png" style="width:70%;"/></a>
-</div>
+<table>
+  <tr>
+    <td valign="top"><img src="./preview/homepreview.png" style="width:40%;"/></td>
+    <td valign="top"><img src="./preview/listpagepreview.png" style="width:40%;"/></td>
+  </tr>
+</table>
